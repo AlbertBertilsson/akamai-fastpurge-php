@@ -18,7 +18,6 @@ access_token = akab-<secret 5>-<secret 6>
 
 ## resources
 Shamelessly inspired and copied bits and pieces from:
-
-https://github.com/akamai/api-kickstart
-https://stackoverflow.com/questions/39477005/akamai-fast-purge-using-php-5-3
-https://developer.akamai.com/introduction/Conf_Client.html
+* https://developer.akamai.com/introduction/Conf_Client.html
+* https://github.com/akamai/api-kickstart
+* https://stackoverflow.com/questions/39477005/akamai-fast-purge-using-php-5-3
