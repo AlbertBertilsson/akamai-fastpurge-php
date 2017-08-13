@@ -1,5 +1,5 @@
 # akamai-fastpurge-php
-Minimal implementation of Akamai Fast Purge in PHP
+Minimal implementation of Akamai Fast Purge in PHP. Specifically put together to get a simple example of the functionality as well as providing a debugging/purging tool that is ready to use with minimal hazzle.
 
 ## usage
 ```php fast-purge.php <string domain> <path> [<paths> ...]```
